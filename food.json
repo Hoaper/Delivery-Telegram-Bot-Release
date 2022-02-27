@@ -1,0 +1,232 @@
+{
+    "plov": {
+
+        "eng": {
+            "img": "images/eng/plov.jpg",
+            "title": "Plov"
+        },
+        "ru": {
+            "img": "images/ru/plov.jpg",
+            "title": "Плов"
+        },
+        "uzb": {
+            "img": "images/uzb/plov.jpg",
+            "title": "Oshi"
+        },
+        "list": {
+            "Choyxana oshi": {
+                "1000 gr": 210000,
+                "800 gr": 175000,
+                "600 gr": 131000,
+                "400 gr": 89000
+            },
+            "Movarounnahr oshi": {
+                "1000 gr": 360000,
+                "800 gr": 285000,
+                "600 gr": 230000
+            },
+            "Qozon kabob": {
+                "1000 gr": 140000
+            }
+        }
+    },
+    "meat": {
+        "eng": {
+            "img": "images/eng/meat.jpg",
+            "title": "Meat"
+        },
+        "ru": {
+            "img": "images/ru/meat.jpg",
+            "title": "Мясо"
+        },
+        "uzb": {
+            "img": "images/uzb/meat.jpg",
+            "title": "G'osht"
+        },
+        "list": {
+            "Lamb neck": {
+                "1000 gr": 130000
+            },
+            "Siltama in jug": {
+                "1000 gr": 140000
+            }
+        }
+    },
+
+    "hot-food": {
+        "eng": {
+            "img": "images/eng/hot_food.jpg",
+            "title": "Hot food"
+        },
+        "ru": {
+            "img": "images/ru/hot_food.jpg",
+            "title": "Горячие закуски"
+        },
+        "uzb": {
+            "img": "images/uzb/hot_food.jpg",
+            "title": "Taomlar"
+        },
+        "list": {
+            "Wings": {
+                "1000 gr": 69000
+            },
+            "Dimlama": {
+                "1000 gr": 150000
+            },
+            "Siltama": {
+                "1000 gr": 140000
+            }
+        }
+    },
+
+    "drinks": {
+        "eng": {
+            "img": "images/eng/drinks.jpg",
+            "title": "Drinks"
+        },
+        "ru": {
+            "img": "images/ru/drinks.jpg",
+            "title": "Напитки"
+        },
+        "uzb": {
+            "img": "images/uzb/drinks.jpg",
+            "title": "Ichimliklar"
+        },
+        "list": {
+            "Coco Cola": {
+                "1.5 L": 11000,
+                "1 L": 9000,
+                "0.5 L": 5000
+            },
+            "Fanta": {
+                "1.5 L": 11000,
+                "1 L": 9000,
+                "0.5 L": 5000
+            },
+            "Pepsi": {
+                "2 L": 12000,
+                "1.5 L": 10000,
+                "1 L": 8000,
+                "0.5 L": 5000
+            },
+            "Mirinda": {
+                "1.5 L": 8000,
+                "1 L": 7000,
+                "0.5": 5000
+            },
+            "7 UP": {
+                "1.5 L": 8000,
+                "1 L": 7000,
+                "0.5": 5000
+            },
+            "Family": {
+                "1.5 L": 4000,
+                "1 L": 3000,
+                "0.5": 2000
+            },
+            "Borjomi": {
+                "0.5 L": 15500
+            },
+            "Kelechek": {
+                "1 L": 9000,
+                "0.5 L": 9000
+            },
+            "Sochnoya dolina": {
+                "1 L": 13000
+            },
+            "Viko": {
+                "1 L": 15000
+            },
+            "Dena": {
+                "1 L": 13000
+            },
+            "Lemonade": {
+                "1.5 L": 8000
+            },
+            "Juice": {
+                "1 L": 7000
+            },
+            "Dinay": {
+                "1 L": 7000
+            },
+            "Apricot juice": {
+                "1 L": 5000
+            },
+            "Fuse tea": {
+                "1 L": 6000
+            },
+            "Flash": {
+                "0.5 L": 9000,
+                "0.33 L": 6000
+            },
+            "Adrenalin": {
+                "0.5 L": 13000,
+                "0.25 L": 10000
+            },
+            "Turbo energy": {
+                "0.5 L": 8000
+            },
+            "Puls": {
+                "0.5 L": 7000
+            },
+            "Zip": {
+                "0.5 L": 8000
+            }
+        }
+    },
+    "cold-food": {
+        "eng": {
+            "img": "images/eng/cold_food.jpg",
+            "title": "Cold food"
+        },
+        "ru": {
+            "img": "images/ru/cold_food.jpg",
+            "title": "Холодные закуски"
+        },
+        "uzb": {
+            "img": "images/uzb/cold_food.jpg",
+            "title": "Qo'shimcha"
+        },
+        "list": {
+            "Kavartak": {
+                "1": 18000
+            },
+            "Quail egg": {
+                "1 pc.": 800
+            },
+            "Postdumba": {
+                "100 gr": 16300
+            },
+            "Qagi": {
+                "100 gr": 22000
+            },
+            "Sugar": {
+                "100 gr": 18000
+            },
+            "Cold cuts": {
+                "1 pc.": 40000
+            },
+            "Peanuts": {
+                "1 pc.": 3500
+            },
+            "Seed (plate)": {
+                "1 pc.": 14000
+            },
+            "Almond (plate)": {
+                "1 pc.": 11000
+            },
+            "Plate": {
+                "1000 gr": 18000,
+                "600 gr": 10000,
+                "400 gr": 8000,
+                "200 gr": 4000
+            },
+            "Salads": {
+                "freash": 5000,
+                "shakarob": 5000,
+                "Sugma": 3500
+            }
+        }
+    }
+
+}

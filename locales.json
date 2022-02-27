@@ -1,0 +1,161 @@
+{
+    "eng": {
+        "welcome": "Please specify what you wanna do?",
+        "statuses": {
+            "fetched": "Cooking...",
+            "delivering": "Delivering...",
+            "arrived": "Arrived!"
+        },
+        "my_orders": "📖 Your orders:\n",
+        "delivering": "🚲 Your order №{} is now delivering...",
+        "arrived": "📦 Your order №{} is now arrived! Rate us!",
+        "orders_template": "№{}\nItems:\n{}\nStatus: {}\nNumber: {}\n",
+        "thanks": "😊 Thanks a lot for order",
+        "lang_change": "⚙️ Language saved!",
+        "output_templ": "{}) Название:{} - {} {}",
+        "select_food_menu": "😋 Select something you wanna order",
+        "back": "⬅️ Back",
+        "finding": "Finding...",
+        "sub_category": "Choose...",
+        "pre_order_desc": "{}\n{}\nCost: {}",
+        "cooking_warning": "Delivery of Hot food and Meat from our menu will take 2 hours.",
+        "add_to_cart": "📥 Add to cart",
+        "main_menu": {
+            "menu": "🍽️ Menu",
+            "orders": "🛒 My orders",
+            "review": "😊 Send a review",
+            "settings": "⚙️ Settings",
+            "geolocation": "📞 Send yout contact or find our offices"
+        },
+        "settings_menu": {
+            "menu": "⚙️ Choose..."
+        },
+        "review": {
+            "sent": "Thanks for your review! 😉",
+            "handled": "Send your review here. You opinion most respected for us! 😇"
+        },
+        "cart": {
+            "title": "🛒 Cart",
+            "empty": "🛎️ You do not have orders now :(\nI'm soo empty, fill me up!",
+            "header": "🍔 Your cart list:\nFree delivering from 400g!",
+            "template": "{}) Name: {} - {}\nPieces: {}\nCost={}\n",
+            "summ": "\nOrder price: {}",
+            "order_now": "Order now!",
+            "accept_header": "Are you sure?\n",
+            "accept_item": "{}) {} {} {} pc. {}",
+            "accept_btn": "Accept",
+            "discard_btn": "Discard" 
+        },
+        "location": {
+            "adress": "🏠 Our offices",
+            "geo": "✉️ My number"
+        },
+        "offices": "🏠 Offices:\n✔️Eski shahar, Xolis shifoxonasi ro‘parasida.\n✔️Yangi Bozor, Sakura  o‘quv markazi yonidan qiriladi."
+    },
+    "ru": {
+        "welcome": "Пожалуйста, выберите, что вы хотите сделать?",
+        "statuses": {
+            "fetched": "Готовим...",
+            "delivering": "Доставляем...",
+            "arrived": "Доставлен!"
+        },
+        "my_orders": "📖 Ваши заказы:\n",
+        "delivering": "🚲 Ваш заказ №{} уже доставляется...",
+        "arrived": "📦 Ваш заказ №{} доставлен! Оцените нас!",
+        "orders_template": "№{}\nСостав:\n{}\nСтатус: {}\nНомер: {}\n",
+        "thanks": "😊 Спасибо за заказ",
+        "lang_change": "⚙️ Язык сохранен!",
+        "output_templ": "{}) Название:{} - {} {}",
+        "select_food_menu": "😋 Выберите, что бы вы хотели заказать?",
+        "back": "⬅️ Назад",
+        "finding": "Поиск...",
+        "sub_category": "Выберите...",
+        "pre_order_desc": "{}\n{}\nЦена: {}",
+        "cooking_warning": "Доставка может занять 2 часа",
+        "add_to_cart": "📥 Добавить в корзину",
+        "main_menu": {
+            "menu": "🍽️ Меню",
+            "orders": "🛒 Мои заказы",
+            "review": "😊 Оставить отзыв",
+            "settings": "⚙️ Настройки",
+            "geolocation": "📞 Отправьте свой номер или узнайте о наших филиалах"
+        },
+        "settings_menu": {
+            "menu": "⚙️ Выбери..."
+        },
+        "review": {
+            "sent": "Спасибо за ваш отзыв 😉",
+            "handled": "Отправьте ваш отзыв сюда. Ваше мнение очень важно для нас! 😇"
+        },
+        "cart": {
+            "title": "🛒 Корзина",
+            "empty": "🛎️ Вы не совершали покупок :(\nМожет наполните меня заказами?",
+            "header": "🍔 Корзина заказов:\nБесплатная доставка при заказе от 400 гр !",
+            "template": "{}) Название: {} - {}\nШтук: {}\nЦена={}\n",
+            "summ": "\nИтого: {}",
+            "order_now": "Заказать!",
+            "accept_header": "Вы уверены в заказе?\n",
+            "accept_item": "{}) {} {} {} шт. {}",
+            "accept_btn": "Заказать",
+            "discard_btn": "Отменить заказ"
+        },
+        "location": {
+            "adress": "🏠 Наши офисы",
+            "geo": "✉️ Мой номер"
+        },
+        "offices": "🏠 Наши офисы:\n✔️Эски шахар, возле Холис клиники\n✔️ Янги бозор, Сакура окув  маркази йонидан кирилади"
+    },
+    "uzb": {
+        "welcome": "Assalomu alaykum! Movarounnahr Choyxonasining Virtual Assistent xizmatiga xush kelibsiz.",
+        "statuses": {
+            "fetched": "Rahmat! Sizning buyurtmangizni tayyorlash boshlandi. Sizga bizning operatorimiz qo'ng'iroq qiladi...",
+            "delivering": "Mahalliy joylashuvga yuborildi...",
+            "arrived": "Buyurtma yetkazildi!"
+        },
+        "lang_change": "⚙️ Til saqlandi!",
+        "my_orders": "📖 Buyurtmalar tarixi:\n",
+        "delivering": "🚲 Sizning Buyurtmangiz №{} tayyorlanmoqda...",
+        "arrived": "📦 Sizning  Buyurtmangiz №{} Agar Siz bizning hizmatlarimiz sifatini yaxshilashga yordam bersangiz, bundan benihoya xursand bo'lamiz. Buning uchun 5 ballik tizim asosida baholang!",
+        "orders_template": "№{}\nBuyumlar:\n{}\nHolat: {}\nNomer: {}\n",
+        "thanks": "😊 Movarounnahr Choyxonasini tanlaganingiz uchun rahmat.✅",
+        "output_templ": "{}) Nomi: {} - {} {}",
+        "select_food_menu": "😋 Buyurtma berishni xohlagan narsangizni tanlang",
+        "back": "⬅️ Ortga",
+        "finding": "Aniqlanmoqda..",
+        "sub_category": "Tanlash...",
+        "pre_order_desc": "{}\n{}\nNarxi: {}",
+        "cooking_warning": "Bizning menuning Taomlar va G'osht yetkazib berish vaqti 2 soat talab qilinadi.",
+        "add_to_cart": "📥 Savatga qo'shish ✅",
+        "main_menu": {
+            "menu": "🍽️ Menu",
+            "orders": "🛒 Mening buyurtmalarim",
+            "review": "😊 Fikr bildirish",
+            "settings": "⚙️ Sozlash",
+            "geolocation": "📞 Mening raqamim"
+        },
+        "settings_menu": {
+            "menu": "⚙️ Tanlang..."
+        },
+        "review": {
+            "sent": "Fikr bildirganingiz uchun Rahmat! 😉",
+            "handled": "O‘z fikr-mulohazalaringizni shu yerda yuboring. Sizning fikringiz biz uchun muhim! 😇"
+        },
+        "cart": {
+            "title": "🛒 Savatga",
+            "empty": "🛎️ Sizning savatingiz bo'sh :(\nSavatni to’ldirish!",
+            "header": "🍔 Sizning buyurtmangiz:\n400 gr dan bepul yetkazib beramiz!",
+            "template": "{}) Nomi: {} - {}\nDona: {}\nNarx={}\n",
+            "summ": "\nUmumiy: {}",
+            "order_now": "Buyurtma berish!",
+            "accept_header": "Ishonchingiz komilmi?\n",
+            "accept_item": "{}) {} {} {} pc. {}",
+            "accept_btn": "Ha",
+            "discard_btn": "Bekor qilish"
+        },
+        "location": {
+            "adress": "🏠 Bizning manzillarimiz",
+            "geo": "✉️ Telefon nomerni yuborish"
+        },
+        "offices": "🏠 Manzillarimiz:\n✔️Eski shahar, Xolis shifoxonasi ro‘parasida.\n✔️Yangi Bozor, Sakura  o‘quv markazi yonidan qiriladi."
+    }
+}
